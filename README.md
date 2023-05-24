@@ -1,7 +1,7 @@
 # cloud-native-monitoring-app-code
 
 
-# [Repository Name]
+# cloud-native-monitoring-app-code
 
 This repository contains the application code for cloud-native-monitoring-application. 
 It follows the best practice of GitOps by separating the application code from the manifest repository.
